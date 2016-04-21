@@ -86,7 +86,7 @@ Please ensure any pull requests of fixes **follow this closely**. If you notice 
 * Every release tagged by `git tag` using [Semantic Versioning](http://semver.org)
 * `Major` version should be almost always the same as on TYPO3.
 
-When we starting new `major` version of **t3kit** previous will be moved to new branch, so in this case we can keep developing new and support old one.
+When starting new `major` version of **t3kit** previous will be moved to new branch, so in this case we can keep developing new and support old one.
 
 Examples:
 * Branch `master` => _last t3kit release_ `t3kit 9.1.3 = TYPO3 9.1.0`
