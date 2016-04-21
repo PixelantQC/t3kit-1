@@ -64,7 +64,7 @@ This project uses special style guides. Those rules you can find on appropriate 
 * [editorconfig](http://editorconfig.org)
 
 ## Git commit conventions and output formatting
-Please use semantic labels for your messages, but if commit message is not very important, you can skip labels. All commits with labels will be added in changelog, that's why it is **important to use predefined labels** on your commits.
+Please    use semantic labels for your messages, but if commit message is not very important, you can skip labels. All commits with labels wll be added in changelog, that's why it is **important to use predefined labels** on your commits.
 
 ####Git labels:
 * **[FEATURE]** A new feature
