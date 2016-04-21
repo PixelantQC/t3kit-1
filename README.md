@@ -14,7 +14,7 @@
 
 ### Getting started with t3kit
 
-The best way to start working with t3kit is to use our [t3kit_vagrant](https://github.com/t3kit/t3kit_vagrant) machine
+Best way to start working with t3kit is to use our [t3kit_vagrant](https://github.com/t3kit/t3kit_vagrant) machine
 
 ###List of tools and extensions:
 
